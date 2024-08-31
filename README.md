@@ -1,4 +1,4 @@
-# STM32 Project - CAN Communication
+# STM32 Project - CAN Communication between 2 STM32 boards
 
 ## Description
 This project focuses on the development and implementation of advanced features on STM32 microcontrollers, with a particular emphasis on the CAN (Controller Area Network) communication protocol.
