@@ -1,0 +1,2 @@
+../Core/Src/GPIO_LED.c:21:9:Control_LED	24	static
+../Core/Src/GPIO_LED.c:38:15:Read_LED	24	static

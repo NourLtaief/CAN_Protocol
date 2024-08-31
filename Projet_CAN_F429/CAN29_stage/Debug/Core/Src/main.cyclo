@@ -1,0 +1,17 @@
+../Core/Src/main.c:112:9:Control_LED	3
+../Core/Src/main.c:129:15:Read_LED	2
+../Core/Src/main.c:146:6:Send_CAN_Message	2
+../Core/Src/main.c:156:9:Set_PWM_output	11
+../Core/Src/main.c:202:9:Get_PWM_output	9
+../Core/Src/main.c:262:17:Handle_TIM_IC_Capture	2
+../Core/Src/main.c:294:6:CAN_ConfigFilter	4
+../Core/Src/main.c:333:5:main	2
+../Core/Src/main.c:407:6:SystemClock_Config	3
+../Core/Src/main.c:454:13:MX_ADC1_Init	6
+../Core/Src/main.c:534:13:MX_CAN1_Init	2
+../Core/Src/main.c:571:13:MX_TIM2_Init	9
+../Core/Src/main.c:642:13:MX_TIM3_Init	4
+../Core/Src/main.c:687:13:MX_TIM4_Init	8
+../Core/Src/main.c:759:13:MX_DMA_Init	1
+../Core/Src/main.c:777:13:MX_GPIO_Init	1
+../Core/Src/main.c:811:6:Error_Handler	1

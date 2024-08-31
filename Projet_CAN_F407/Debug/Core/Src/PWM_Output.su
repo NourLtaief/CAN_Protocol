@@ -1,0 +1,2 @@
+../Core/Src/PWM_Output.c:16:9:Set_PWM_output	56	static
+../Core/Src/PWM_Output.c:62:9:Get_PWM_output	40	static
